@@ -1,0 +1,2 @@
+$HR_LeftEye	Left Eye Color
+$HR_RightEye	Right Eye Color

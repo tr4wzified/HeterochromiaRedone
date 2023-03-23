@@ -1,0 +1,14 @@
+{
+  "Nickname": "HeterochromiaRedone",
+  "Visibility": "Visible",
+  "OneLineDescription": "A Synthesis alternative to the UPF Heterochromia Reborn zEdit patcher",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [
+    "RaceMenu.esp"
+  ],
+  "TargetedReleases": [
+    "SkyrimSE",
+    "SkyrimSEGog"
+  ]
+}

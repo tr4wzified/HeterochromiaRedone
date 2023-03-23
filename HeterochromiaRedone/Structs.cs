@@ -20,5 +20,11 @@ namespace HeterochromiaRedone
             public string TriPath { get; set; }
             public string ChargenPath { get; set; }
         }
+        public enum RaceType : byte
+        {
+            AllRacesMinusBeasts = 0,
+            Argonian = 1,
+            Khajiit = 2,
+        }
     }
 }
